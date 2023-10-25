@@ -24,7 +24,6 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 
 ### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad
 <img src="images/Cognizant.png" alt="Cognizant Logo" width="400" height="130"/>
-![]()
 
 - Specialized in ML and NLP with Azure.
 - Managed ML applications with PowerBI.
