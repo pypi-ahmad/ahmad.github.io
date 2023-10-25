@@ -23,6 +23,8 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 ## Professional Experience
 
 ### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad
+![Cognizant Logo](images/Cognizant.png)
+
 - Specialized in ML and NLP with Azure.
 - Managed ML applications with PowerBI.
 - Collaborated on NLP web app on Azure.
