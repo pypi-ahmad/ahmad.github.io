@@ -27,6 +27,8 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 - [Coursera Certificates](https://github.com/pypi-ahmad/Coursera-Certificates)
 
 ## Contact
-
-- LinkedIn: [https://www.linkedin.com/in/ahmad-iiitk/](https://www.linkedin.com/in/ahmad-iiitk/)
-- Email: ahmad.iiitk@gmail.com
+- Telegram Channel: [MLDS Insights](https://t.me/MLDSInsights)
+- Telegram Account: [Peaceful Data](https://t.me/peacefuldata)
+- LinkedIn: [Profile](https://www.linkedin.com/in/ahmad-iiitk/)
+- YouTube: [Channel](https://www.youtube.com/channel/UC38wvN6ZalnJAKjel48i18w)
+- Instagram: [Peaceful Data Mind](https://www.instagram.com/peacefuldatamind/)
