@@ -49,11 +49,11 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
   
 - [Super Market Sales Prediction](https://github.com/pypi-ahmad/Super-Market-Sales-Prediction)
   <br><br>
-  <img src="images/Supermarket.png" alt="Supermarket Thumbnail" width="400" height="300"/>
+  <img src="images/Supermarket.png" alt="Supermarket Thumbnail" width="500" height="300"/>
 
 - [Mango Leaf Disease Prediction](https://github.com/pypi-ahmad/Mango-Leaf-Disease-Prediction)
   <br><br>
-  <img src="images/Mango.png" alt="Mango Leaf Thumbnail" width="400" height="300"/>
+  <img src="images/Mango.png" alt="Mango Leaf Thumbnail" width="500" height="300"/>
   
 - [Animals Classification on Animals-10 Dataset using VGG16](https://github.com/pypi-ahmad/Animals-Classification-on-Animals-10-Dataset-using-VGG16)
 
