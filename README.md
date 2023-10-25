@@ -1,14 +1,43 @@
+![Cover Image](images/Cover.png)
+
 # 👨‍💼 Ahmad's Portfolio
 
 Welcome to my portfolio page where I showcase my machine learning and data science projects, along with my certifications.
 
-![Image 1](images/1.png)
+## Overview
+
+![Profile Picture](images/Profile Picture.png)
+
+- **Position**: Associate Data Scientist
+- **Company**: Cognizant Technology Solutions, Hyderabad, India
+- **Location**: Hyderabad, India
+
+## Skills
+
+- **Programming**: Python, R, SQL
+- **Machine Learning**: scikit-learn, TensorFlow, PyTorch
+- **Data Analysis**: Excel, Power BI, SQL
+- **Deep Learning**: CNN, LSTM, NLP
+- **Cloud Technologies**: Azure
+
+## Professional Experience
+
+### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad
+- Specialized in ML and NLP with Azure.
+- Managed ML applications with PowerBI.
+- Collaborated on NLP web app on Azure.
+
+### AiEnsured, Bangalore (Intern)
+- Implemented ML for TensorFlow optimization.
+- Designed efficient deep learning models.
 
 ## 🛠️ Projects
 
 - [Image Steganography Tool](https://github.com/pypi-ahmad/Image-Steganography-Tool)
 - [Super Market Sales Prediction](https://github.com/pypi-ahmad/Super-Market-Sales-Prediction)
+  ![Supermarket Thumbnail](images/Supermarket thumbnail.png)
 - [Mango Leaf Disease Prediction](https://github.com/pypi-ahmad/Mango-Leaf-Disease-Prediction)
+  ![Mango Leaf Thumbnail](images/Mango Leaf thumbnail.png)
 - [Animals Classification on Animals-10 Dataset using VGG16](https://github.com/pypi-ahmad/Animals-Classification-on-Animals-10-Dataset-using-VGG16)
 - ...and [more](https://github.com/pypi-ahmad?tab=repositories)
 
@@ -33,3 +62,5 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 - LinkedIn: [Profile](https://www.linkedin.com/in/ahmad-iiitk/)
 - YouTube: [Channel](https://www.youtube.com/channel/UC38wvN6ZalnJAKjel48i18w)
 - Instagram: [Peaceful Data Mind](https://www.instagram.com/peacefuldatamind/)
+
+![Image 1](images/1.png)
