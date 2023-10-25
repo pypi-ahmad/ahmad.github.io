@@ -1,10 +1,10 @@
-# Ahmad's Portfolio
+# 👨‍💼 Ahmad's Portfolio
 
 Welcome to my portfolio page where I showcase my machine learning and data science projects, along with my certifications.
 
 ![Image 1](images/1.png)
 
-## Projects
+## 🛠️ Projects
 
 - [Image Steganography Tool](https://github.com/pypi-ahmad/Image-Steganography-Tool)
 - [Super Market Sales Prediction](https://github.com/pypi-ahmad/Super-Market-Sales-Prediction)
@@ -12,7 +12,7 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 - [Animals Classification on Animals-10 Dataset using VGG16](https://github.com/pypi-ahmad/Animals-Classification-on-Animals-10-Dataset-using-VGG16)
 - ...and [more](https://github.com/pypi-ahmad?tab=repositories)
 
-## Resources
+## 📚 Resources
 
 - [Cheatsheets](https://github.com/pypi-ahmad/Cheatsheets)
 - [Classification Templates](https://github.com/pypi-ahmad/Classification-Templates)
@@ -21,12 +21,13 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 - [Face Recognition Flask App](https://github.com/pypi-ahmad/FaceRecognition_Flask)
 - [Machine Learning Model Selection](https://github.com/pypi-ahmad/Machine-Learning-Model-Selection)
 
-## Certifications
+## 🎓 Certifications
 
 - [Udemy Certificates](https://github.com/pypi-ahmad/Udemy-Certificates)
 - [Coursera Certificates](https://github.com/pypi-ahmad/Coursera-Certificates)
 
-## Contact
+## 📬 Contact
+
 - Telegram Channel: [MLDS Insights](https://t.me/MLDSInsights)
 - Telegram Account: [Peaceful Data](https://t.me/peacefuldata)
 - LinkedIn: [Profile](https://www.linkedin.com/in/ahmad-iiitk/)
