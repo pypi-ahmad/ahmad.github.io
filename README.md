@@ -6,7 +6,7 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 
 ## Overview
 
-<img src="images/Profile.png" alt="Profile Picture" width="200" height="300"/>
+<img src="images/Profile.png" alt="Profile Picture" width="200" height="250"/>
 
 - **Position**: Associate Data Scientist
 - **Company**: Cognizant Technology Solutions, Hyderabad, India
