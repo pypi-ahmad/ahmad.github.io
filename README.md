@@ -22,16 +22,19 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 
 ## Professional Experience
 
-### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad
+### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad  (September 2022 - Present)
 <img src="images/Cognizant.png" alt="Cognizant Logo" width="400" height="130"/>
 
 - Specialized in ML and NLP with Azure.
 - Managed ML applications with PowerBI.
 - Collaborated on NLP web app on Azure.
 
-### AiEnsured, Bangalore (Intern)
+### AiEnsured, Bangalore (Intern) (July 2021 - August 2021)
 - Implemented ML for TensorFlow optimization.
 - Designed efficient deep learning models.
+
+### IIIT Kurnool (Teaching Assistant) (March 2021 - March 2022)
+- Led recitations, graded coursework, and assisted students in understanding machine learning concepts.
 
 ## 🛠️ Projects
 
