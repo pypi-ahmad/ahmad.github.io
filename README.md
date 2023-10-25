@@ -2,6 +2,8 @@
 
 Welcome to my portfolio page where I showcase my machine learning and data science projects, along with my certifications.
 
+![Image 1](images/1.png)
+
 ## Projects
 
 - [Image Steganography Tool](https://github.com/pypi-ahmad/Image-Steganography-Tool)
