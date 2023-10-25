@@ -39,10 +39,15 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 ## 🛠️ Projects
 
 - [Image Steganography Tool](https://github.com/pypi-ahmad/Image-Steganography-Tool)
+  
 - [Super Market Sales Prediction](https://github.com/pypi-ahmad/Super-Market-Sales-Prediction)
-  ![Supermarket Thumbnail](images/Supermarket.png)
+  <img src="images/Supermarket.png" alt="Supermarket Thumbnail" width="600" height="400"/>
+  ![]()
+
 - [Mango Leaf Disease Prediction](https://github.com/pypi-ahmad/Mango-Leaf-Disease-Prediction)
-  ![Mango Leaf Thumbnail](images/Mango.png)
+  <img src="images/Mango.png" alt="Mango Leaf Thumbnail" width="600" height="400"/>
+  ![]()
+  
 - [Animals Classification on Animals-10 Dataset using VGG16](https://github.com/pypi-ahmad/Animals-Classification-on-Animals-10-Dataset-using-VGG16)
 - ...and [more](https://github.com/pypi-ahmad?tab=repositories)
 
