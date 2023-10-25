@@ -23,6 +23,7 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 ## Professional Experience
 
 ### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad  (September 2022 - Present)
+
 <img src="images/Cognizant.png" alt="Cognizant Logo" width="400" height="130"/>
 
 - Specialized in ML and NLP with Azure.
@@ -41,9 +42,11 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 - [Image Steganography Tool](https://github.com/pypi-ahmad/Image-Steganography-Tool)
   
 - [Super Market Sales Prediction](https://github.com/pypi-ahmad/Super-Market-Sales-Prediction)
+- 
   <img src="images/Supermarket.png" alt="Supermarket Thumbnail" width="400" height="300"/>
 
 - [Mango Leaf Disease Prediction](https://github.com/pypi-ahmad/Mango-Leaf-Disease-Prediction)
+- 
   <img src="images/Mango.png" alt="Mango Leaf Thumbnail" width="400" height="300"/>
   
 - [Animals Classification on Animals-10 Dataset using VGG16](https://github.com/pypi-ahmad/Animals-Classification-on-Animals-10-Dataset-using-VGG16)
