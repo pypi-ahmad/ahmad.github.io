@@ -6,7 +6,7 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 
 ## Overview
 
-![Profile Picture](images/Profile Picture.png)
+![Profile Picture](images/Profile.png)
 
 - **Position**: Associate Data Scientist
 - **Company**: Cognizant Technology Solutions, Hyderabad, India
@@ -35,9 +35,9 @@ Welcome to my portfolio page where I showcase my machine learning and data scien
 
 - [Image Steganography Tool](https://github.com/pypi-ahmad/Image-Steganography-Tool)
 - [Super Market Sales Prediction](https://github.com/pypi-ahmad/Super-Market-Sales-Prediction)
-  ![Supermarket Thumbnail](images/Supermarket thumbnail.png)
+  ![Supermarket Thumbnail](images/Supermarket.png)
 - [Mango Leaf Disease Prediction](https://github.com/pypi-ahmad/Mango-Leaf-Disease-Prediction)
-  ![Mango Leaf Thumbnail](images/Mango Leaf thumbnail.png)
+  ![Mango Leaf Thumbnail](images/Mango.png)
 - [Animals Classification on Animals-10 Dataset using VGG16](https://github.com/pypi-ahmad/Animals-Classification-on-Animals-10-Dataset-using-VGG16)
 - ...and [more](https://github.com/pypi-ahmad?tab=repositories)
 
