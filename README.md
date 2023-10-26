@@ -29,7 +29,7 @@
 
 ### COGNIZANT TECHNOLOGY SOLUTIONS, Hyderabad  (September 2022 - Present)
 
-<div align="center">
+<div align="left">
   <img src="images/Cognizant.jpg" alt="Cognizant Logo" width="400" height="130"/>
   <p>Credit: Cognizant</p>
 </div>
