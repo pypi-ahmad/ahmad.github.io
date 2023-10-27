@@ -87,6 +87,10 @@
 - [Face Recognition Flask App](https://github.com/pypi-ahmad/FaceRecognition_Flask)
 - [Machine Learning Model Selection](https://github.com/pypi-ahmad/Machine-Learning-Model-Selection)
 
+## 📄 Resume
+
+Interested in diving deeper into my professional journey? Check out my detailed resume [here](https://github.com/pypi-ahmad/My-Resume).
+
 ## 💌 Contact
 
 - 📡 Telegram Channel: [MLDS Insights](https://t.me/MLDSInsights)
