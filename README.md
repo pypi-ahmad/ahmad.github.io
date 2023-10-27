@@ -19,10 +19,11 @@
 ## 🚀 Skills
 
 - 🖥️ Programming Languages: Python, R, SQL.
-- 🤖 Machine Learning: scikit-learn, numpy, pandas, matplotlib, seaborn, Regression, Classification, Clustering, Decision Tree, Dimensionality Reduction, Ensemble Methods (Random Forest, XGBoost).
+- 🤖 Machine Learning Libraries: Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn.
+- 🤖 Machine Learning Techniques: Regression, Classification, Clustering, Decision Tree, Dimensionality Reduction, Ensemble Methods (Random Forest, XGBoost).
 - 🧠 Deep Learning: CNN, RNN, LSTM, TensorFlow, PyTorch, Transfer Learning, OpenCV, NLTK, Natural Language Processing, Computer Vision.
 - 🔍 Data Science & Miscellaneous Technologies: Data science pipeline (cleansing, wrangling, visualization, modeling, interpretation), Statistics, Probability, Time Series, Git, Streamlit.
-- 📊 Data Analysis: Microsoft Excel, Microsoft Power BI, PySpark, MS SQL, Oracle SQL, Azure Databricks.
+- 📊 Data Analysis Tools: Microsoft Excel, Microsoft Power BI, PySpark, MS SQL, Oracle SQL, Azure Databricks.
 - ☁️ Cloud Technologies: Azure, Microsoft LUIS (Language Understanding).
 
 ## 👔 Professional Experience
@@ -34,21 +35,36 @@
   <p>Credit: Cognizant</p>
 </div>
 
-- Specialized in ML and NLP with Azure.
-- Created interactive data dashboards with Microsoft PowerBI.
-- Leveraged Azure Databricks for data ingestion and transformation.
-- Maintained an NLP web app on Azure, including updates and bug fixes.
-- Adaptable to different shifts and time zones for project delivery.
-- Effectively communicated findings to both technical and non-technical stakeholders.
-- Worked with cross-functional teams to deliver data-driven solutions.
-- Proactively identified and resolved application bugs.
+- Specialized in ML and NLP using Azure Databricks, PowerBI, and SQL, adapting to shifts and different time zones to meet client demands.
+- Developed and refined ML/NLP applications, ensuring updates aligned with client requirements.
+- Designed interactive data dashboards in PowerBI, translating complex data into intuitive visuals.
+- Utilized Azure Databricks for comprehensive data management, from ingestion to analysis.
+- Collaborated with diverse teams to provide data-driven solutions and effectively communicated insights to varied audiences.
+- Maintained optimal application performance, promptly addressing bugs and deploying updates, especially for an NLP web application on Azure.
 
 ### AiEnsured, Bangalore (Intern) (July 2021 - August 2021)
-- Implemented ML for TensorFlow optimization.
-- Designed efficient deep learning models.
+- Implemented machine learning techniques for optimizing TensorFlow lite, reducing process time and memory usage.
+- Designed and optimized deep learning models for efficiency.
+- Collaborated with the team to enhance machine learning solutions.
 
 ### IIIT Kurnool (Teaching Assistant) (March 2021 - March 2022)
 - Led recitations, graded coursework, and assisted students in understanding machine learning concepts.
+
+## 📜 Certifications
+
+**Machine Learning Specialization** - January 17, 2023  
+_Institution_: DeepLearning.AI via Coursera  
+**Courses Covered**:  
+- Supervised Machine Learning: Regression and Classification
+- Advanced Learning Algorithms
+- Unsupervised Learning, Recommenders, Reinforcement Learning  
+**Instructors**: Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig  
+_Description_: Completed a comprehensive specialization on machine learning, including topics like supervised and unsupervised learning, recommender systems, and reinforcement learning. Gained practical skills for implementing machine learning solutions to real-world challenges.  
+[Verify Certification](https://coursera.org/verify/specialization/2T5GNSDSV29S)
+
+**Additional Certificates**:
+- [Udemy Certificates on GitHub](https://github.com/pypi-ahmad/Udemy-Certificates)
+- [Coursera Certificates on GitHub](https://github.com/pypi-ahmad/Coursera-Certificates)
 
 ## 🎨 Projects
 
